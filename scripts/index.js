@@ -49,7 +49,7 @@ const setupGuides = (data) => {
   
     guideList.innerHTML = html;
   } else {
-    guideList.innerHTML = '<h5 class="center-align">Login to view guides</h5>';
+    guideList.innerHTML = '<h4 class="center-align"> Hello, please login or create an account with 4 Years! </h4>';
 
   }
 };
